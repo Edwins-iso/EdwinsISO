@@ -5,7 +5,7 @@
 - <b>Active Directory Home Lab</b>
   - [Active Directory Server and GPO](https://github.com/Edwins-iso/Active-Directory-Home-Lab)
 - <b>Cisco Packet Tracer Excercise</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
