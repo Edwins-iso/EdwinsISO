@@ -7,7 +7,7 @@
 - <b>Cisco Packet Tracer Excercise</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>SIEM Home Lab and XDR solution in WAZUH</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [SIEM Home Lab](https://github.com/Edwins-iso/SIEM-with-WAZUH)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
