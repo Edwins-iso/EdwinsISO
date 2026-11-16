@@ -4,8 +4,8 @@
 
 - <b>Active Directory Home Lab</b>
   - [Active Directory Server and GPO](https://github.com/Edwins-iso/Active-Directory-Home-Lab)
-- <b>Cisco Packet Tracer Excercise</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>SOC Home lab in Azure</b>
+  - [SOC Home lab](https://github.com/Edwins-iso/SOC-Home-Lab)
 - <b>SIEM Home Lab and XDR solution in WAZUH</b>
   - [SIEM Home Lab](https://github.com/Edwins-iso/SIEM-with-WAZUH)
 <!--
