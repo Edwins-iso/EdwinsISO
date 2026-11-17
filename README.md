@@ -1,8 +1,8 @@
-<h1>Hi, I'm Edwins! 
+<h1>Hi, I'm Edwins!</h1>
 
-Driven and eager to learn Information Technology! Developing my own experience in implementing IT solutions,
+<p>Driven and eager to learn Information Technology! Developing my own experience in implementing IT solutions,
 managing network security, and supporting system administration, complemented by hands-on project work and a strong
-foundation in technical problem-solving and professional communication with clients and teams.
+foundation in technical problem-solving and professional communication with clients and teams.<p/>
 
 <h2>👨‍💻 IT and CyberSecurity Projects:</h2>
 
